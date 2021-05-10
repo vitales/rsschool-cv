@@ -20,7 +20,7 @@ PROFESSIONAL EXPERIENCE
 
 VW Group Belarus, Minsk, BY
 **System Administrator** _,_ Jan 2011-Present
--  Maintained 400+ servers and computers, including configuring and monitoring.
+-  Maintained 1000+ servers and computers, including configuring and monitoring.
 
 RTL Holding, Minsk, BY
 
