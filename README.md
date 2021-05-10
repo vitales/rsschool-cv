@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/vitales/rsschool-cv/blob/gh-pages/cv/
